@@ -8,8 +8,6 @@
 
 -fotodiodo.ino es el programa utilizado para medir radiación solar.
 
--puenteW.ino es el programa utilizado para medir temperatura con 2 puentes 
-de Wheatstone.
+-puenteW.ino es el programa utilizado para medir temperatura con 2 puentes de Wheatstone.
 
--puenteyampli.ino es el programa utilizado para medir temperatura con un puente conectado
-a un amplificador de instrumentación.
+-puenteyampli.ino es el programa utilizado para medir temperatura con un puente conectado a un amplificador de instrumentación.
